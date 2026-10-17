@@ -8,3 +8,4 @@ Tests login functionality.
 attendance_test.txt
 
 Tests attendance marking functionality.
+Repository maintained by QA Team.
