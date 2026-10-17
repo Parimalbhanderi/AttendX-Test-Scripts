@@ -7,3 +7,4 @@ Test Case: Attendance Marking Test
 
 Expected Result:
 Attendance marked successfully.
+Verify attendance record is saved.
