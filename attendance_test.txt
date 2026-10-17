@@ -1,0 +1,9 @@
+Test Case: Attendance Marking Test
+
+1. Login to AttendX
+2. Open Attendance Page
+3. Select Subject
+4. Click Mark Attendance
+
+Expected Result:
+Attendance marked successfully.

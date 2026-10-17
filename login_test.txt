@@ -1,0 +1,10 @@
+Test Case: Login Test
+
+1. Open AttendX app
+2. Enter username
+3. Enter password
+4. Click Login
+5. Verify dashboard is displayed
+
+Expected Result:
+User logs in successfully.
